@@ -1,0 +1,7 @@
+git clone url
+
+# Push Commands:
+
+git push <remote> <branch>
+git push <remote> --force
+git push <remote> --tags
